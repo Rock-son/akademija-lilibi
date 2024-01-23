@@ -12840,7 +12840,7 @@ body {
 }
 
 .video-vsebine-popup .content {
-  background: url("../public/images/popups/video-vsebine.jpg") no-repeat center !important;
+  background: url("../../images/popups/video-vsebine.jpg") no-repeat center !important;
   width: 576px !important;
   height: 437px !important;
   background-size: 100% !important;
@@ -12997,7 +12997,7 @@ body {
 }
 
 .lutkovna-predstava-popup .content {
-  background: url("../public/images/popups/popup-lutkovna-predstava.png") no-repeat center !important;
+  background: url("../../images/popups/popup-lutkovna-predstava.png") no-repeat center !important;
   width: 576px !important;
   height: 437px !important;
   background-size: 100% !important;
@@ -13384,7 +13384,7 @@ body {
 
 .akademija-landing .hero {
   position: relative;
-  background: url("../public/images/akademija/hero24.png") no-repeat top center;
+  background: url("../../images/akademija/hero24.png") no-repeat top center;
   height: calc(70vw /1.417);
   margin-top: -5.25rem;
   margin-bottom: 10rem;
@@ -13399,7 +13399,7 @@ body {
 
 @media only screen and (max-width: 992px) {
   .akademija-landing .hero {
-    background: url("../public/images/akademija/hero24-md.png") no-repeat top center;
+    background: url("../../images/akademija/hero24-md.png") no-repeat top center;
     background-size: 100%;
     height: calc(100vw / 0.79);
     margin-top: 0;
@@ -13415,7 +13415,7 @@ body {
 
 @media only screen and (max-width: 500px) {
   .akademija-landing .hero {
-    background: url("../public/images/akademija/hero24-xs.png") no-repeat top center;
+    background: url("../../images/akademija/hero24-xs.png") no-repeat top center;
     height: calc(100vw / 0.505);
     background-size: 100%;
   }
@@ -13767,7 +13767,7 @@ body {
 
 .akademija-landing .vabilo .zeleni-trak {
   position: relative;
-  background: url("../public/images/akademija/grass-invitation.png") no-repeat bottom center;
+  background: url("../../images/akademija/grass-invitation.png") no-repeat bottom center;
   color: #fff;
   text-align: center;
   font-size: 1.6rem;
@@ -14634,7 +14634,7 @@ body {
 
 .akademija-landing .napovednik .zeleni-trak {
   position: relative;
-  background: url("../public/images/akademija/grass-invitation.png") no-repeat bottom center;
+  background: url("../../images/akademija/grass-invitation.png") no-repeat bottom center;
   color: #fff;
   text-align: center;
   font-size: 1.6rem;
@@ -14961,7 +14961,7 @@ body {
 }
 
 .akademija-landing .gostitelji .ozadje-spodaj {
-  background: url("../public/images/akademija/ozadje-spodaj.png") no-repeat bottom center;
+  background: url("../../images/akademija/ozadje-spodaj.png") no-repeat bottom center;
   height: 25.5rem;
   width: 100%;
   margin-bottom: -0.5rem;
@@ -15005,7 +15005,7 @@ body {
 }
 
 .akademija-landing .gostitelji .ozadje-spodaj-m {
-  background: url("../public/images/akademija/ozadje-spodaj-m.png") no-repeat bottom center;
+  background: url("../../images/akademija/ozadje-spodaj-m.png") no-repeat bottom center;
   height: 19rem;
   width: 100%;
   color: #EFEFEF;
@@ -15013,7 +15013,7 @@ body {
   position: relative;
   z-index: -1;
   display: none;
-  background: url("../public/images/akademija/ozadje-spodaj.png") no-repeat bottom center;
+  background: url("../../images/akademija/ozadje-spodaj.png") no-repeat bottom center;
   height: 25.5rem;
   width: 144%;
   left: -22%;
